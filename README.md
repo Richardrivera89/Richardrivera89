@@ -14,7 +14,7 @@ Seeking an entry-level cybersecurity role to apply foundational skills in vulner
 
 | Project                                         | Labs       |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://www.dropbox.com/scl/fi/40klmn0jei2jp7atluu8r/Network-Forensics-tcpdump-lab.docx?rlkey=exb2b6fpfa9pa1gj4jhc8ypuy&st=hc48snkq&dl=0">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
