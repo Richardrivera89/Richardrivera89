@@ -19,7 +19,7 @@ Seeking an entry-level cybersecurity role to apply foundational skills in vulner
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Meow Project (HTB)                            | <a href="https://www.dropbox.com/scl/fi/h4o4qhvgq2oqutvwn9kct/Meow.docx?rlkey=6twm6qzsdakbun3xvm02bjilc&st=ugotmiqz&dl=0"|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
